@@ -1,0 +1,87 @@
+.mainWrap {
+  height: 73.5vh;
+  min-height: 73.5vh;
+  max-height: 73.5vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 3vh 2.5vw 1vh;
+  width: 95vw;
+  // background: blue;
+}
+.leftSideWrap {
+  // background: green;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 55vw;
+  padding-top: 3vh;
+}
+
+.centerTextLine {
+  font-size: 1vw;
+  min-width: 42vw;
+  width: 42vw;
+  max-width: 42vw;
+  text-align: left;
+}
+
+.mainCenterHeading {
+  font-size: 5.2vw;
+  text-align: left;
+  line-height: 145%;
+  margin-top: 0;
+  margin-bottom: 6vh;
+  max-width: 47vw;
+}
+
+.baselineDescription {
+  font-size: 1.4vw;
+  max-width: 40vw;
+  text-align: left;
+}
+
+.baselineButton {
+  min-width: 33vw;
+  width: 33vw;
+  max-width: 33vw;
+  height: 5vh;
+  min-height: 5vh;
+  max-height: 5vh;
+  margin: 4vh 0 0;
+  font-family: "Marcellus";
+  font-size: 1.3vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2vw 50vw 50vw 2vw;
+}
+
+.heroImageWrap {
+  // background: purple;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 45vw;
+  width: 45vw;
+  max-height: 70vh;
+  // clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  position: relative;
+  .heroImageAsset {
+    clip-path: polygon(50% 0%, 0% 130%, 100% 130%);
+    // transform: rotate(15deg);
+    position: absolute;
+  }
+  .heroImageAsset2 {
+    clip-path: polygon(50% 0%, 0% 130%, 100% 130%);
+    position: absolute;
+  }
+  .heroImageAsset3 {
+    clip-path: polygon(50% 0%, 0% 130%, 100% 130%);
+    position: absolute;
+  }
+}
