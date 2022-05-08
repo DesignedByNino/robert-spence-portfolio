@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="40px" viewBox="0 0 100 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Next-Menu-SVG</title>
+    <g id="HOME" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.85">
+        <g id="iPhone-8" transform="translate(-162.000000, -323.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Next-Menu-SVG" transform="translate(162.000000, 323.000000)">
+                <rect id="Rectangle" x="0" y="0" width="99.047619" height="5.71428571"></rect>
+                <rect id="Rectangle" x="15.2380952" y="17.1428571" width="83.8095238" height="5.71428571"></rect>
+                <rect id="Rectangle" x="0" y="34.2857143" width="99.047619" height="5.71428571"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
